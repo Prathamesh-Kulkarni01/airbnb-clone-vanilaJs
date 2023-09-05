@@ -4,7 +4,6 @@ const checkoutQuery = document.getElementById("checkOut-ip");
 const guestQuery = document.getElementById("guest-ip");
 
 const searchButton = document.getElementById("search");
-const houseContainer = document.getElementById("houses");
 const API_KEY = 'b72b653f85mshface544bffa851fp14f8b4jsn70764afbb428';
 const AIRBNB_API_KEY = 'b72b653f85mshface544bffa851fp14f8b4jsn70764afbb428';
 

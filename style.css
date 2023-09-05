@@ -530,15 +530,17 @@ nav.navbar-white .fa-bars{
     color: #ff5361;
     font-size: 14px;
 }
+
 .gallery{
     display: grid;
     grid-gap: 10px;
     grid-template-areas: 'first first . .' 'first first . .';
     margin: 20px 0;
+
 }
 .gallery div img{
     width: 100%;
-    display: block;
+    display: inline-block;
     border-radius: 10px;
 }
 .gallery-img-1{
